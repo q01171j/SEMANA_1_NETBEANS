@@ -4,15 +4,12 @@
  */
 package com.mycompany.estructura_datos_sem1;
 
-import java.util.Scanner;
-
 /**
  *
  * @author Adriano
  */
 public class ejercicio_9 {
     public static void main(String[] args) {
-        Scanner entrada = new Scanner (System.in);
         double pi = 3.14159265;
         double sum_A = 0;
         double array[] = new double[3];
